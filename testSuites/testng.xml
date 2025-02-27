@@ -10,7 +10,7 @@
 
     <test thread-count="5" name="login">
         <classes>
-            <class name="com.transferOut.StandAloneTest"></class>
+            <class name="com.deathClaim.TSL_DeathClaim"></class>
         </classes>
     </test>
 

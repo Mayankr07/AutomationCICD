@@ -38,11 +38,6 @@ public class LoginPage  extends SuitBase
         Add_Log.info("Done with Git Changes");
         Add_Log.info("Done with Git Changes");
         Add_Log.info("Done with Git Changes");
-        Add_Log.info("Done with Git Changes");
-        Add_Log.info("Done with Git Changes Sucess ");
-        Add_Log.info("Done with Git Changes Sucess ");
-        Add_Log.info("Done with Git Changes Sucess ");
-
     }
 
 

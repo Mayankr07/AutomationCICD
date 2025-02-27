@@ -46,7 +46,7 @@ public class SuitBase
 
     public void loadBrowser()
     {
-        //Selecting Driver for the Execution
+        //Selecting BrowserDriver for the Execution
         String browserName=Param.getProperty("browser");
         System.out.println("browser name "+browserName);
         if(browserName.equalsIgnoreCase("Chrome")) {
