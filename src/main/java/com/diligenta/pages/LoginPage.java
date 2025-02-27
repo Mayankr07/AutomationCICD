@@ -35,6 +35,10 @@ public class LoginPage  extends SuitBase
         txt_uerEmail.sendKeys("anshika@gmail.com");
         txt_userPassword.sendKeys("Iamking@000");
         btn_login.click();
+        Add_Log.info("Done with Git Changes");
+        Add_Log.info("Done with Git Changes");
+        Add_Log.info("Done with Git Changes");
+        Add_Log.info("Done with Git Changes");
     }
 
 

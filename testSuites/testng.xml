@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel = "tests" name = "Suite">
+
+
+
+<!--    <listeners>-->
+<!--    <listener class-name="org.testng.reporters.XMLReporter"/>-->
+<!--</listeners>-->
+
+    <test thread-count="5" name="login">
+        <classes>
+            <class name="com.deathClaim.TSL_DeathClaim"></class>
+        </classes>
+    </test>
+
+
+</suite>
