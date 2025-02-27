@@ -19,5 +19,6 @@ public class StandAloneTest extends SuitBase
             ProductCatloguePage obj_productcatloguePage=new ProductCatloguePage(driver);
             obj_productcatloguePage.getProductList();
             obj_productcatloguePage.checkAlert();
+            Add_Log.info("Inside of Stand Alone Test");
      }
 }

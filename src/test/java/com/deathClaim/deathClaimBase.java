@@ -48,7 +48,6 @@ public class deathClaimBase extends SuitBase
                   throw  new SkipException(SuiteName+" Suite to run flag is N or Blank. So Skipping the execution");
             }
             else {
-
                   SuitUtility.writeResultUtility(FilePath,SheetName,"Skipped/Executed",SuiteName,"Executed");
             }
       }
