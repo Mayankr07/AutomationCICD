@@ -37,6 +37,7 @@ public class LoginPage  extends SuitBase
         btn_login.click();
         Add_Log.info("Done with Git Changes");
         Add_Log.info("Day 2 of CICD");
+        Add_Log.info("Changes made by Men 2");
     }
 
 
