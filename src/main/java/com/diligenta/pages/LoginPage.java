@@ -38,6 +38,8 @@ public class LoginPage  extends SuitBase
         Add_Log.info("Done with Git Changes");
         Add_Log.info("Day 2 of CICD");
         Add_Log.info("Changes made by Men 2");
+        Add_Log.info("WebHook Integrated");
+
     }
 
 
